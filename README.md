@@ -11,4 +11,4 @@ In the examples the data is opened with xarray. The coordinate 'site_index' refe
 With thank to the <a href='https://www.zooniverse.org/projects/edh/rainfall-rescue'>Rainfall Rescue project and community</a> [Hawkins et al., 2013]for thier hard work in making this observational data publically available.
 
 **Refernces**:
-Hawkins, E., Burt, S., McCarthy, M., Murphy, C., Ross, C., Baldock, M., et al (2023) Millions of historical monthly rainfall observations taken in the UK and Ireland rescued by citizen scientists. Geoscience Data Journal, 10, 246–261. Available from: <a href='https://doi.org/10.1002/gdj3.157'></a>
+Hawkins, E., Burt, S., McCarthy, M., Murphy, C., Ross, C., Baldock, M., et al (2023) Millions of historical monthly rainfall observations taken in the UK and Ireland rescued by citizen scientists. Geoscience Data Journal, 10, 246–261. Available from: <a href='https://doi.org/10.1002/gdj3.157'>https://doi.org/10.1002/gdj3.157</a>
